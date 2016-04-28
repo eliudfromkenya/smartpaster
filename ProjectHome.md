@@ -1,0 +1,1 @@
+SmartPaster allows developers to quickly paste clipboard text into C# or VB.NET code files in Visual Studio such that it will be properly formatted as a comment, string, StringBuilder, or region.
